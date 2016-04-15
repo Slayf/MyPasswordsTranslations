@@ -53,7 +53,7 @@
     <string name="upgrade_feature_4"><xliff:g id="SPACE_CHECK_SPACE">\n\u0020\u2714\u0020\u0020</xliff:g>Функция настройки буфера обмена</string>
     <string name="upgrade_feature_5"><xliff:g id="SPACE_CHECK_SPACE">\n\u0020\u2714\u0020\u0020</xliff:g>Функция автоматического удаления данных</string>
     <string name="upgrade_feature_6"><xliff:g id="SPACE_CHECK_SPACE">\n\u0020\u2714\u0020\u0020</xliff:g>Функция настройки отпечатка пальца</string>
-    <string name="upgrade_feature_7"><xliff:g id="SPACE_CHECK_SPACE">\n\u0020\u2714\u0020\u0020</xliff:g>Wearable app</string>
+    <string name="upgrade_feature_7"><xliff:g id="SPACE_CHECK_SPACE">\n\u0020\u2714\u0020\u0020</xliff:g>Функция отоброжения для часов</string>
     <string name="upgrade_accept">Приобретая PRO версию вы принимаете следующие<xliff:g id="SPACE">\u0020</xliff:g></string>
     <string name="upgrade_terms">условия</string>
     <!-- change master password -->
@@ -75,7 +75,7 @@
     <string name="menu_delete">Удалить</string>
     <string name="menu_color">Цвет</string>
     <string name="menu_keyboard">Клавиатура</string>
-    <string name="menu_add_to_wear">Add to wearable</string>
+    <string name="menu_add_to_wear">Добавить в часы</string>
     <!-- ################################################################################# -->
 
 
@@ -103,10 +103,10 @@
     <string name="toast_error_csv_import">Не удалось импортировать из файла CSV</string>
     <string name="toast_database_server_error">База данных не доступна в данный момент.</string>
     <string name="toast_fingerprint_disabled">Функция введения с помощью отпечатка пальца отключена.</string>
-    <string name="toast_added_to_wear">Added to wearable</string>
-    <string name="toast_removed_from_wear">Removed from wearable</string>
-    <string name="toast_wear_only_pro_users">Wearable features are only available in PRO version</string>
-    <string name="toast_playstore_error">Google Play store app is not installed</string>
+    <string name="toast_added_to_wear">Добавлено в часы</string>
+    <string name="toast_removed_from_wear">Удален из часов</string>
+    <string name="toast_wear_only_pro_users">Функция \"Добавить в часы\" доступна только в PRO версии</string>
+    <string name="toast_playstore_error">Приложение Google Play Маркет не установлено</string>
     <!-- ################################################################################# -->
 
 
@@ -115,12 +115,12 @@
     <string name="dialog_button_continue">Продолжить</string>
     <string name="dialog_button_cancel">Отмена</string>
     <string name="dialog_button_delete">Удалить</string>
-    <string name="dialog_button_rate_now">Rate Now</string>
+    <string name="dialog_button_rate_now">Оценить сейчас</string>
     <string name="dialog_title_restore_backup">Восстановить резервную копию?</string>
     <string name="dialog_title_import_csv">Импортировать из файла CSV?</string>
     <string name="dialog_title_change_master_password">Изменить \"Мастер-пароль\"?</string>
     <string name="dialog_title_self_destruct">Самоуничтожение</string>
-    <string name="dialog_title_rate_and_review">Rate and review?</string>
+    <string name="dialog_title_rate_and_review">Оценить и пересмотреть?</string>
     <string name="dialog_msg_entries_will_be_deleted">Все текущие записи будут удалены.</string>
     <string name="dialog_msg_changing_master_password">Изменяя \"Мастер-пароль\", вы не сможете восстановить резервные копии базы данных, которые были созданы в существующем \"Мастер-пароль\".</string>
     <string name="dialog_msg_delete_previous_password">Удалить существующий \"Мастер-пароль\"?</string>
@@ -143,7 +143,7 @@
     <string name="dialog_msg_confirm_fp">Подтвердить отпечаток пальца для продолжения</string>
     <string name="dialog_msg_fp_enrolled">Сброс блокировки экрана, с помощью отпечатка пальца, выполнен! Пожалуйста, включите параметр отпечатка пальца после ввода приложение с помощью \"Мастер-пароль\".</string>
     <string name="dialog_msg_remember_password">Убедитесь в том, что вы помните Ваш \"Мастер-пароль\" в случае, если отпечаток пальца больше не доступен.</string>
-    <string name="dialog_msg_rate_and_review">If you enjoy using this app, please take a moment to rate it.</string>
+    <string name="dialog_msg_rate_and_review">Если вам нравится это приложение, пожалуйста, найдите время, чтобы оценить его.</string>
     <string name="dialog_progress_please_wait">Пожалуйста, подождите<xliff:g id="THREE_DOTS">&#8230;</xliff:g></string>
     <!-- ################################################################################# -->
 
